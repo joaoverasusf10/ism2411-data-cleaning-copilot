@@ -1,0 +1,11 @@
+Order ID, Product Name ,Price,Quantity 
+1001, Laptop ,899.99,2
+1002,  Mouse, 29.99,
+1003,Keyboard,79.99,3
+1004,  Monitor  ,,2
+1005,Chair,199.99,-1
+1006,Desk  ,449.99,1
+1007,  Lamp,-15.99,2
+1008,Cable,9.99,5
+1009,  Printer,  ,
+1010,Paper,12.99,10
